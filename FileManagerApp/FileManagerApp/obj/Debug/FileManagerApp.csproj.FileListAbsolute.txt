@@ -1,0 +1,9 @@
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\FileManagerApp\FileManagerApp\bin\Debug\FileManagerApp.exe.config
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\FileManagerApp\FileManagerApp\bin\Debug\FileManagerApp.exe
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\FileManagerApp\FileManagerApp\bin\Debug\FileManagerApp.pdb
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.csprojAssemblyReference.cache
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.Properties.Resources.resources
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.csproj.GenerateResource.cache
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.exe
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\FileManagerApp\FileManagerApp\obj\Debug\FileManagerApp.pdb

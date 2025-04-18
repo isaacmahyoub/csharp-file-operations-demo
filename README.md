@@ -56,7 +56,8 @@
 
 ## 📷 لقطات شاشة
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e6877c70-af3b-4d7b-ab8d-5b30dde14ef7)
+
 
 
 ## 🛠️ المستقبل

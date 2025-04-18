@@ -1,4 +1,4 @@
-# FileApp
+# FileOpsDemo
 
 تطبيق بسيط لإدارة الملفات باستخدام Windows Forms (WinForms) بلغة C#، مبني باستخدام نمط MVC.
 

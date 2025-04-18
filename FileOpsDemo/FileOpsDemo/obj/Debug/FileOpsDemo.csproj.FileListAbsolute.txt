@@ -1,0 +1,9 @@
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\My-GitHub-CSharp\csharp-file-operations-demo\FileOpsDemo\FileOpsDemo\bin\Debug\FileOpsDemo.exe.config
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\My-GitHub-CSharp\csharp-file-operations-demo\FileOpsDemo\FileOpsDemo\bin\Debug\FileOpsDemo.exe
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\My-GitHub-CSharp\csharp-file-operations-demo\FileOpsDemo\FileOpsDemo\bin\Debug\FileOpsDemo.pdb
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\My-GitHub-CSharp\csharp-file-operations-demo\FileOpsDemo\FileOpsDemo\obj\Debug\FileOpsDemo.csprojAssemblyReference.cache
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\My-GitHub-CSharp\csharp-file-operations-demo\FileOpsDemo\FileOpsDemo\obj\Debug\FileOpsDemo.Properties.Resources.resources
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\My-GitHub-CSharp\csharp-file-operations-demo\FileOpsDemo\FileOpsDemo\obj\Debug\FileOpsDemo.csproj.GenerateResource.cache
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\My-GitHub-CSharp\csharp-file-operations-demo\FileOpsDemo\FileOpsDemo\obj\Debug\FileOpsDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\My-GitHub-CSharp\csharp-file-operations-demo\FileOpsDemo\FileOpsDemo\obj\Debug\FileOpsDemo.exe
+C:\Users\lenovo 2023\Desktop\MyProjectCS\myprojects-csharp\My-GitHub-CSharp\csharp-file-operations-demo\FileOpsDemo\FileOpsDemo\obj\Debug\FileOpsDemo.pdb

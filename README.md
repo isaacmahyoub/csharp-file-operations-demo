@@ -56,7 +56,8 @@
 
 ## 📷 لقطات شاشة
 
-![image](https://github.com/user-attachments/assets/e6877c70-af3b-4d7b-ab8d-5b30dde14ef7)
+![image](https://github.com/user-attachments/assets/5978287f-ef26-4ff1-ab93-23adaa70f230)
+
 
 
 
